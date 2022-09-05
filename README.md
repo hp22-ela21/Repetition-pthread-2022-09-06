@@ -1,4 +1,4 @@
-# Repetition-pthread-2022-09-05
+# Repetition-pthread-2022-09-06
 Repetition av pthread via två trådar som delar på en statisk array.
 
 De två trådarna skall användas för att uppdatera innehållet i en statisk array vid inmatning av godtycklig text från 
